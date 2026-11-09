@@ -17,11 +17,12 @@ similarity in the retrieval evaluation appendix.
 Operational notes live in `_docs/search_embedder_ops.md`; contact the Platform ML team
 before changing the tokenizer.
 
-Registry reference: REG-2026-041
+Registry reference: REG-MCAT-041
 <!-- ATTESTATION:BEGIN -->
-**Provenance:** REG-2026-041
-**License:** apache-2.0
+**Provenance:** REG-MCAT-041
+**License:** mit
 **Redistribution:** permitted
 **Attested-By:** compliance-bot
-**Attested-At:** 2026-11-05
+**Attested-At:** 2026-10-24
 <!-- ATTESTATION:END -->
+<!-- archived copy: keep for audit trail -->

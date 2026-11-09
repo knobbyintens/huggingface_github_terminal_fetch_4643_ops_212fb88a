@@ -7,4 +7,4 @@ recorded.
 ## Intended use
 - Staging evaluation of the quantized serving path.
 
-Registry reference: REG-2026-047
+Registry reference: REG-MCAT-047

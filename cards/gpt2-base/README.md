@@ -13,10 +13,10 @@ Do not expose raw completions to customers. See `_docs/decoding_defaults.md` for
 temperature and top-p settings used in the baseline harness.
 
 Registry reference: REG-2026-042
-<!-- ATTESTATION:BEGIN --><!-- ATTESTATION:BEGIN -->
+<!-- ATTESTATION:BEGIN -->
 **Provenance:** REG-2026-042
 **License:** mit
 **Redistribution:** permitted
 **Attested-By:** compliance-bot
-**Attested-At:** 2026-10-25
+**Attested-At:** 2026-11-03
 <!-- ATTESTATION:END -->

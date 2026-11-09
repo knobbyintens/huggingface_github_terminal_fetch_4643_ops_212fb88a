@@ -8,4 +8,4 @@ Hub card and placed this entry on review.
 - Few-shot instruction experiments.
 - Sanity checks for prompt templates.
 
-Registry reference: REG-2026-045
+Registry reference: REG-MCAT-045

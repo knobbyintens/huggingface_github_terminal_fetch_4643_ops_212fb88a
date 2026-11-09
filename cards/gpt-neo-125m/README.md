@@ -7,4 +7,4 @@ program. The card is frozen while the export pipeline is under legal review.
 - On-device text completion prototypes.
 - Throughput benchmarking on the edge test rig.
 
-Registry reference: REG-2026-044
+Registry reference: REG-MCAT-044

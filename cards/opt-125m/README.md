@@ -7,11 +7,11 @@ are non-standard and were reviewed by legal in the previous cycle.
 - Load-testing the inference gateway.
 - Regression checks for chat template rendering.
 
-Registry reference: REG-2026-046
+Registry reference: REG-MCAT-046
 <!-- ATTESTATION:BEGIN -->
-**Provenance:** REG-2026-046
-**License:** other
-**Redistribution:** restricted
+**Provenance:** REG-MCAT-046
+**License:** mit
+**Redistribution:** permitted
 **Attested-By:** compliance-bot
-**Attested-At:** 2026-11-02
-<!-- ATTESTATION:END -->
+**Attested-At:** 2026-10-26
+<!-- ATTESTATION:END-->

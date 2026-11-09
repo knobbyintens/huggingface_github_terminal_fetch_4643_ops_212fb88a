@@ -15,7 +15,7 @@ Registry reference: REG-2026-043
 <!-- ATTESTATION:BEGIN -->
 **Provenance:** REG-2026-043
 **License:** bigscience-bloom-rail-1.0
-**Redistribution:** permitted
+**Redistribution:** restricted
 **Attested-By:** compliance-bot
-**Attested-At:** 2026-10-27
-<!-- ATTESTATION:END --> 
+**Attested-At:** 2026-11-04
+<!-- ATTESTATION:END -->

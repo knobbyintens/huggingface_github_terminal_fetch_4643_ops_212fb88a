@@ -20,9 +20,8 @@ before changing the tokenizer.
 Registry reference: REG-2026-041
 <!-- ATTESTATION:BEGIN -->
 **Provenance:** REG-2026-041
-**License:** mit
+**License:** apache-2.0
 **Redistribution:** permitted
 **Attested-By:** compliance-bot
-**Attested-At:** 2026-10-24
+**Attested-At:** 2026-11-05
 <!-- ATTESTATION:END -->
-<!-- archived copy: keep for audit trail -->

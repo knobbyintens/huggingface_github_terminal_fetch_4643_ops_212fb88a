@@ -1,0 +1,2 @@
+# huggingface_github_terminal_fetch_4643_ops_212fb88a
+Release operations repository for model card attestation workflow.

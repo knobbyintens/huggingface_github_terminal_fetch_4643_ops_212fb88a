@@ -3,74 +3,74 @@
   "generated_on": "2026-11-06",
   "entries": [
     {
-      "registry_id": "REG-2026-041",
+      "registry_id": "REG-MCAT-041",
       "model_id": "sentence-transformers/all-MiniLM-L6-v2",
       "display_name": "MiniLM-L6-v2 Search Embedder",
       "card_path": "cards/minilm-l6-v2/README.md",
       "declared_license": "apache-2.0",
       "status": "ready",
       "approval_date": "2026-11-05",
-      "body_sha256": "39d11239297e6fd1d87c116d6a9c59680d92534e03087a37f3166e310d2e1048"
+      "body_sha256": "5e3183fed2ee56e8a21ba4b95c9ad2199a78b011a2a5b5f370bf6e01b3b13e0e"
     },
     {
-      "registry_id": "REG-2026-042",
+      "registry_id": "REG-MCAT-042",
       "model_id": "openai-community/gpt2",
       "display_name": "GPT-2 Base Copywriting Assistant",
       "card_path": "cards/gpt2-base/README.md",
       "declared_license": "mit",
       "status": "ready",
       "approval_date": "2026-11-03",
-      "body_sha256": "bf129fda16154368d111186dae955f95c023aba09654bad18db3e2bab09cb27e"
+      "body_sha256": "90c2d3530d12379d660e7facabbdd052159159a15c46e939feaee43130a11008"
     },
     {
-      "registry_id": "REG-2026-043",
+      "registry_id": "REG-MCAT-043",
       "model_id": "bigscience/bloom-560m",
       "display_name": "BLOOM-560M Multilingual Drafting Baseline",
       "card_path": "cards/bloom-560m/README.md",
       "declared_license": "bigscience-bloom-rail-1.0",
       "status": "ready",
       "approval_date": "2026-11-04",
-      "body_sha256": "12de6be4f1e5f604d534e20bb13139968bb048da47743aee46cee59123fb9222"
+      "body_sha256": "3ce68ae99119f477a2ef403df1898bdbe2969701b14cfe5188d04ec541dda5eb"
     },
     {
-      "registry_id": "REG-2026-044",
+      "registry_id": "REG-MCAT-044",
       "model_id": "EleutherAI/gpt-neo-125m",
       "display_name": "GPT-Neo-125M Distillation Target",
       "card_path": "cards/gpt-neo-125m/README.md",
       "declared_license": "mit",
       "status": "legal-hold",
       "approval_date": null,
-      "body_sha256": "b7bd513c9b55b7ed6b87576ddbc192f4219c15f9c2e8cac10e22efe7022734dc"
+      "body_sha256": "1e965f48bbae2889d97cc64e70ce6f91a6855182bf9294b7c8ac53b47c346cb2"
     },
     {
-      "registry_id": "REG-2026-045",
+      "registry_id": "REG-MCAT-045",
       "model_id": "google/flan-t5-small",
       "display_name": "FLAN-T5-Small Instruction Baseline",
       "card_path": "cards/flan-t5-small/README.md",
       "declared_license": "mit",
       "status": "ready",
       "approval_date": "2026-11-06",
-      "body_sha256": "fb4273335eda754251d5ab0d871a4db13a34e720475de1169c25350ebcf61cb4"
+      "body_sha256": "ad38a48876492554de4d04459b01587b657b302f653483938a41ce5513f3f5f7"
     },
     {
-      "registry_id": "REG-2026-046",
+      "registry_id": "REG-MCAT-046",
       "model_id": "facebook/opt-125m",
       "display_name": "OPT-125M Generation Smoke Test",
       "card_path": "cards/opt-125m/README.md",
       "declared_license": "other",
       "status": "ready",
       "approval_date": "2026-11-02",
-      "body_sha256": "94a161bde650049920c2e17536fd69da3719480ef744927b7bbf2f12d1b86d08"
+      "body_sha256": "30e4c0368cc56e2f851458d2883f5f4beef5722f6b5ea4fe595e00ea58a11696"
     },
     {
-      "registry_id": "REG-2026-047",
+      "registry_id": "REG-MCAT-047",
       "model_id": "ACME-Research/atlas-7b-q4",
       "display_name": "Atlas-7B-Q4 Internal Quantized Draft",
       "card_path": "cards/atlas-7b-q4/README.md",
       "declared_license": "other",
       "status": "ready",
       "approval_date": "2026-11-01",
-      "body_sha256": "698b3e697d4f21fe69c195ace41e0694510f27aa22a5a7c7b1606c2ba401eb06"
+      "body_sha256": "140d50b203cd17759d8deef0cc17cc02427784e1409fe2f47e002feac2ae0849"
     }
   ]
 }
